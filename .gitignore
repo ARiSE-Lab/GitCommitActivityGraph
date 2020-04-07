@@ -1,3 +1,4 @@
 *.json
 tmp/*
 .ipynb_checkpoints/
+tmp_repo/*
